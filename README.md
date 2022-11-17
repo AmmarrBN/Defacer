@@ -16,4 +16,13 @@ Deface Termux Menggunakan WebDav + Live Target
   ```
   </details>
 
+#### KELEBIHAN 📍
+| Kelebihan | Check |
+|--------|--------|
+| **Live Target** |[✔️](https://github.com/AmmarrBN) |
+| **Free File Html** |[✔️](https://github.com/AmmarrBN) |
+| **Simple** |[✔️](https://github.com/AmmarrBN) |
+| **Subscribe** |[Here](https://youtube.com/channel/UCyxWbQIfP1ewwQou-gqZ2Iw) |
+---------
+
 <li><code>Token ambil <a href="https://karyawan.co.id/GXENAwM46W">disini</a></code></li>
