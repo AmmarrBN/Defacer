@@ -259,9 +259,3 @@ cat <<LOGIN>$nama.html
             </div>
         </td>
       </table>
-WOW
-
-cp -f $nama.html /sdcard
-echo -e $putih'Success Create File......'
-sleep 5
-echo -e $putih'File Tersimpan Di /sdcard'$green'✓'
