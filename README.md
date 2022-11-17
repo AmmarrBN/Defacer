@@ -28,4 +28,4 @@ Deface Termux Menggunakan WebDav + Live Target
 | **Subscribe** |[Here](https://youtube.com/channel/UCyxWbQIfP1ewwQou-gqZ2Iw) |
 ---------
 
-<li><code>Token ambil <a href="https://karyawan.co.id/GXENAwM46W">disini</a></code></li>
+<li><code>Get Token <a href="https://karyawan.co.id/GXENAwM46W">key</a></code></li>
