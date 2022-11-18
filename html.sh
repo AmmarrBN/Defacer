@@ -38,7 +38,7 @@ cat <<LOGIN>$nama.html
       <meta charset="UTF-8" />
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <meta name="title" content="Hacked by ./AmmarXploit">
+      <meta name="title" content="Hacked by $title">
       <meta name="description" content="wh00pz ! your security get down||Uciha Black Hat Team">
       <meta name="keywords" content="hacked,hacked by ./be64l,hacked by,hacker,hacker jago,berita terbaru,website di retas,deface,wordpress,hacked by,website,whitehat,blackhat,defacer,hack,mirror">
       <meta name="robots" content="index, follow">
